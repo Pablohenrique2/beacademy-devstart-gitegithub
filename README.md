@@ -1,6 +1,15 @@
 # Beacademy-devstart-gitgithub
 Esse repositório foi criado com a finalidade de fazer a entrega dos exercícios propostos pelos professores da beacademy/devstart..👨‍💻
 
+## Configuração inicial do git: ⚙️
+
+Configurando o nome do usuário e email:
+
+```bash
+  git config --global user.name '*nome do seu usuario*'
+  git config --global user.email '*digite seu email*'
+```
+
 ## Comandos git Apresentados nas aulas: 🎓
 Comandos basico para desde a inicialização da criação de um projeto até subir para o repositório.
 
