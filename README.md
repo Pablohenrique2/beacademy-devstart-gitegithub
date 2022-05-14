@@ -53,6 +53,26 @@ Enviar o arquivo para o repositório:
 ```bash
   git push -u origin main ou Master
 ```
+#### Remover arquivo/diretório
+
+Remover arquivo:
+
+```bash
+  git rm meu_arquivo.txt
+```
+Remover diretório:
+
+```bash
+  git rm -r diretorio
+```
+#### Visualizar histórico
+
+Exibir histórico:
+
+```bash
+  git log
+```
+
 ### Comando de Ramificação 🌲
 
 Criar uma branch:
