@@ -108,7 +108,7 @@ Para apagar a branch:
 ```
 
 ### Comando para usar stash: 🧠
-Quando precisar guarda rapidamente aquele arquivo para ter que resolver algum outro poblema sem precisar ter que fazer commit no arquivo sendo que ele não esta nem perto do esperado:
+Quando precisar guarda rapidamente aquele arquivo para ter que resolver algum outro problema sem precisar ter que fazer commit no arquivo sendo que ele não esta nem perto do esperado:
 
 ```bash
  git stash
